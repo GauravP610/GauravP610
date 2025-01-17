@@ -1,4 +1,4 @@
-<h2 align="left">Hello World ! My name is Gaurav Pathak and I'm a Artificial Intelligence and Machine Learning engineer</h2>
+<h2 align="left">Hello World 🌐! My name is Gaurav Pathak and I'm a Artificial Intelligence and Machine Learning engineer 👋</h2>
 
 ###
 <div align="left">
