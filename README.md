@@ -4,6 +4,7 @@
 <div align="left">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravP610&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=GauravP610&no-bg=true&no-frame=true&column=6&theme=dark_lover" height="150" alt="trophy graph"  />
 </div>
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4bDM0c2E3YTByY293ZHptdHpjdDR3YjVsanY2cnZobDdhY2lxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qaBiLmkFnA2Eo/giphy.gif"  />
